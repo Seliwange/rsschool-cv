@@ -1,1 +1,2 @@
-https://Seliwange.github.io/rsschool-cv/cv
+rsschool-cv
+https://Seliwange.github.io/rsschool-cv/
